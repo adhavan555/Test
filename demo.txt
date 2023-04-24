@@ -1,1 +1,9 @@
 demo
+
+git remote add origin https://github.com/adhavan555/Test.git
+adhavan@DESKTOP-6SFQJ4S MINGW64 ~/Desktop/github (master)
+$ git init
+Reinitialized existing Git repository in C:/Users/adhavan/Desktop/github/.git/
+
+adhavan@DESKTOP-6SFQJ4S MINGW64 ~/Desktop/github (master)
+$
